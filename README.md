@@ -31,4 +31,4 @@ I welcome contributions from the open-source community. If you have suggestions 
 
 ## Contact Us
 
-Have questions or feedback? Feel free to [contact] (ahmadd.khan58555@gmail.com) – I'd love to hear from you.
+Have questions or feedback? Feel free to [contact](ahmadd.khan58555@gmail.com) – I'd love to hear from you.
